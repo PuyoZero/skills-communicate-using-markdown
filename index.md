@@ -6,3 +6,5 @@
 ###### aaa
 
 ヘッダー1~6を追加しました。
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

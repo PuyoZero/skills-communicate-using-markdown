@@ -13,3 +13,7 @@
 text = "Githubめっちゃ革新的な機能じゃん。ええやん。すごいやん"
 puts text
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
